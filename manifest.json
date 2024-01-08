@@ -1,0 +1,61 @@
+{
+    "short_name": "adil-boudida",
+    "name": "adil-boudida",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "scope": "/",
+    "orientation":"portrait",
+    "background_color": "#010100",
+    "theme_color": "#E5D000",
+    "icons": [
+      {
+        "src": "/img/coding.png",
+        "sizes": "64x64",
+        "type": "image/png"
+      },
+      {
+        "src": "/img/software-development (1).png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "/img/software-development.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      
+      {
+        "src": "/img/app-development.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "/img/software.png",
+        "sizes": "16x16",
+        "type": "image/png"
+      },
+      {
+        "src": "/img/data-management.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+
+      
+      {
+        "src": "/img/algorithms.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+
+
+      {
+        "src": "/img/maskable_icon.png",
+        "sizes": "96x96",
+        "type": "image/png",
+        "purpose":"maskable"
+
+      }
+    ],
+    "splash_pages": null
+  }
+  
